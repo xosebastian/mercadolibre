@@ -5,8 +5,12 @@ Middleware + FE
 - git
 - Node v6
 - npm v3
-- ReactJs
-- NextJS
+
+## technologies
+- React
+- Next
+- MaterialUI
+- Express
 
 ## Installation
 To run the app locally:
