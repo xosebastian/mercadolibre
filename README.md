@@ -5,7 +5,7 @@ Middleware + FE
 - git
 - Node v6
 - npm v3
-- ReacJs
+- ReactJs
 - NextJS
 
 ## Installation
