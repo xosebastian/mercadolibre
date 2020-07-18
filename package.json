@@ -3,13 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "nodemon server/index.jsx",
     "build": "next build",
-    "start": "next start"
+    "start": "cross-env NODE_ENV=production node server.js"
   },
   "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "clsx": "latest",
+    "cross-env": "^7.0.2",
+    "express": "^4.17.1",
     "next": "9.3.5",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "node-fetch": "^2.6.0",
+    "prop-types": "latest",
+    "query-string": "^6.13.1",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
