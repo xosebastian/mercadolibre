@@ -6,7 +6,7 @@ Middleware + FE
 - Node v6
 - npm v3
 
-## technologies
+## Technologies
 - React
 - Next
 - MaterialUI
