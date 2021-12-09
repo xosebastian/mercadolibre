@@ -13,7 +13,7 @@
     "clsx": "latest",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
-    "next": "9.3.5",
+    "next": "11.1.3",
     "node-fetch": "^2.6.0",
     "prop-types": "latest",
     "query-string": "^6.13.1",
