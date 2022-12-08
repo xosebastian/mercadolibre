@@ -12,7 +12,7 @@
     "@material-ui/icons": "latest",
     "clsx": "latest",
     "cross-env": "^7.0.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "next": "9.3.5",
     "node-fetch": "^2.6.0",
     "prop-types": "latest",
